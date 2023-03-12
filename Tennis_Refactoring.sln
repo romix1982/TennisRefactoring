@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tennis_Refactoring", "Tenis_Refactoring\Tennis_Refactoring.csproj", "{99DCF9D5-EB3A-4A82-8D94-0F1E90803F51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tennis_RefactoringUnitTests", "Tennis_RefactoringUnitTests\Tennis_RefactoringUnitTests.csproj", "{7EA60986-9514-4292-B215-4124C591E112}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99DCF9D5-EB3A-4A82-8D94-0F1E90803F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99DCF9D5-EB3A-4A82-8D94-0F1E90803F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99DCF9D5-EB3A-4A82-8D94-0F1E90803F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99DCF9D5-EB3A-4A82-8D94-0F1E90803F51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EA60986-9514-4292-B215-4124C591E112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EA60986-9514-4292-B215-4124C591E112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EA60986-9514-4292-B215-4124C591E112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EA60986-9514-4292-B215-4124C591E112}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA82F4D3-8E83-41E1-84C0-20F1CDDA3564}
+	EndGlobalSection
+EndGlobal
